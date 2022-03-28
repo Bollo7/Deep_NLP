@@ -7,4 +7,4 @@ This is a repository for storing progress on assignments of Group 13 participati
 | <p style="text-align: center;">First Name</p>  | <p style="text-align: center;">Family Name</p> | Matr.-No. |
 | ---------------------------------------------- | ---------------------------------------------- | -------- |
 | <p style="text-align: left">*Nikita*</p>| <p style="text-align: left">*Kolesnichenko*</p> | *k11778609* |
-| <p style="text-align: left">*EDIT!*</p>| <p style="text-align: left">*EDIT!*</p> | *EDIT!* |
+| <p style="text-align: left">*Linda*</p>| <p style="text-align: left">*Ratz*</p> | *k1525947* |
