@@ -1,6 +1,6 @@
 # Deep_NLP
 
-This is a repository for storing progress on assignments of Group 13 participating in course Natural Language Processing with Deep Learning at Johannes Kepler University in Linz.
+This is a repository for storing progress on assignments of Group 13 participating in the course Natural Language Processing with Deep Learning at Johannes Kepler University in Linz.
 
 #### Group Participants: 
 
